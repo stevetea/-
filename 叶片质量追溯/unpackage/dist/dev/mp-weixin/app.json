@@ -1,0 +1,27 @@
+{
+  "pages": [
+    "pages/login/login",
+    "pages/index/index",
+    "pages/scan/scan",
+    "pages/trace-detail/trace-detail",
+    "pages/qc-input/qc-input",
+    "pages/blade-list/blade-list",
+    "pages/process-input/process-input",
+    "pages/blade-create/blade-create",
+    "pages/user-manage/user-manage",
+    "pages/statistics/statistics",
+    "pages/yolo-detect/yolo-detect"
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "叶片质量追溯系统",
+    "navigationBarBackgroundColor": "#FFB6C1",
+    "backgroundColor": "#FFFFFF"
+  },
+  "permission": {
+    "scope.camera": {
+      "desc": "用于扫描二维码追溯叶片信息"
+    }
+  },
+  "usingComponents": {}
+}

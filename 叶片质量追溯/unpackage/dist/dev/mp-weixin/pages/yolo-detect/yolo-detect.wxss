@@ -1,0 +1,208 @@
+
+.container.data-v-8c7e7c79 {
+  min-height: 100vh;
+  background: #FFFFFF;
+  padding: 20rpx;
+}
+.header.data-v-8c7e7c79 {
+  background: linear-gradient(135deg, #FFB6C1 0%, #FFB6C1 100%);
+  padding: 40rpx 30rpx;
+  border-radius: 20rpx;
+  margin-bottom: 20rpx;
+  color: #ffffff;
+}
+.title.data-v-8c7e7c79 {
+  font-size: 40rpx;
+  font-weight: bold;
+  display: block;
+  margin-bottom: 10rpx;
+}
+.subtitle.data-v-8c7e7c79 {
+  font-size: 26rpx;
+  opacity: 0.9;
+  display: block;
+}
+.model-info-card.data-v-8c7e7c79 {
+  background: #ffffff;
+  border-radius: 20rpx;
+  padding: 30rpx;
+  margin-bottom: 20rpx;
+  box-shadow: 0 4rpx 20rpx rgba(0, 0, 0, 0.08);
+}
+.info-item.data-v-8c7e7c79 {
+  display: flex;
+  align-items: center;
+  margin-bottom: 15rpx;
+}
+.info-item.data-v-8c7e7c79:last-child {
+  margin-bottom: 0;
+}
+.info-label.data-v-8c7e7c79 {
+  font-size: 28rpx;
+  color: #666666;
+  margin-right: 10rpx;
+}
+.info-value.data-v-8c7e7c79 {
+  font-size: 28rpx;
+  font-weight: 600;
+  color: #333333;
+}
+.info-value.success.data-v-8c7e7c79 {
+  color: #4caf50;
+}
+.info-value.error.data-v-8c7e7c79 {
+  color: #f44336;
+}
+.upload-section.data-v-8c7e7c79 {
+  background: #ffffff;
+  border-radius: 20rpx;
+  padding: 30rpx;
+  margin-bottom: 20rpx;
+  box-shadow: 0 4rpx 20rpx rgba(0, 0, 0, 0.08);
+}
+.upload-area.data-v-8c7e7c79 {
+  border: 2rpx dashed #cccccc;
+  border-radius: 20rpx;
+  padding: 80rpx 40rpx;
+  text-align: center;
+  background: #fafafa;
+  transition: all 0.3s ease;
+}
+.upload-area.data-v-8c7e7c79:active {
+  background: #f0f0f0;
+  border-color: #667eea;
+}
+.upload-icon.data-v-8c7e7c79 {
+  font-size: 80rpx;
+  margin-bottom: 20rpx;
+}
+.upload-text.data-v-8c7e7c79 {
+  font-size: 32rpx;
+  color: #333333;
+  font-weight: 600;
+  display: block;
+  margin-bottom: 10rpx;
+}
+.upload-hint.data-v-8c7e7c79 {
+  font-size: 24rpx;
+  color: #999999;
+  display: block;
+}
+.image-preview.data-v-8c7e7c79 {
+  display: flex;
+  flex-direction: column;
+}
+.preview-image.data-v-8c7e7c79 {
+  width: 100%;
+  max-height: 600rpx;
+  border-radius: 20rpx;
+  margin-bottom: 20rpx;
+}
+.image-actions.data-v-8c7e7c79 {
+  display: flex;
+  flex-direction: column;
+  gap: 20rpx;
+  align-items: center;
+}
+.action-btn.data-v-8c7e7c79 {
+  width: 100%;
+  height: 80rpx;
+  line-height: 80rpx;
+  text-align: center;
+  border-radius: 10rpx;
+  font-size: 28rpx;
+  border: none;
+  background: #f0f0f0;
+  color: #333333;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.action-btn.primary.data-v-8c7e7c79 {
+  background: linear-gradient(135deg, #FFB6C1 0%, #FFB6C1 100%);
+  color: #ffffff;
+}
+.action-btn[disabled].data-v-8c7e7c79 {
+  opacity: 0.6;
+}
+.result-section.data-v-8c7e7c79 {
+  background: #ffffff;
+  border-radius: 20rpx;
+  padding: 30rpx;
+  margin-bottom: 20rpx;
+  box-shadow: 0 4rpx 20rpx rgba(0, 0, 0, 0.08);
+}
+.result-header.data-v-8c7e7c79 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20rpx;
+  padding-bottom: 20rpx;
+  border-bottom: 1rpx solid #f0f0f0;
+}
+.result-title.data-v-8c7e7c79 {
+  font-size: 32rpx;
+  font-weight: bold;
+  color: #333333;
+}
+.result-count.data-v-8c7e7c79 {
+  font-size: 26rpx;
+  color: #667eea;
+  font-weight: 600;
+}
+.result-image-wrapper.data-v-8c7e7c79 {
+  margin-bottom: 30rpx;
+}
+.result-image.data-v-8c7e7c79 {
+  width: 100%;
+  max-height: 600rpx;
+  border-radius: 20rpx;
+}
+.detection-list.data-v-8c7e7c79 {
+  display: flex;
+  flex-direction: column;
+  gap: 20rpx;
+}
+.detection-item.data-v-8c7e7c79 {
+  background: #f8f9fa;
+  border-radius: 15rpx;
+  padding: 20rpx;
+  border-left: 4rpx solid #667eea;
+}
+.detection-header.data-v-8c7e7c79 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10rpx;
+}
+.detection-class.data-v-8c7e7c79 {
+  font-size: 30rpx;
+  font-weight: 600;
+  color: #333333;
+}
+.detection-confidence.data-v-8c7e7c79 {
+  font-size: 28rpx;
+  color: #667eea;
+  font-weight: 600;
+}
+.detection-bbox.data-v-8c7e7c79 {
+  margin-top: 10rpx;
+}
+.bbox-text.data-v-8c7e7c79 {
+  font-size: 24rpx;
+  color: #666666;
+}
+.no-result.data-v-8c7e7c79 {
+  text-align: center;
+  padding: 60rpx;
+  color: #999999;
+  font-size: 28rpx;
+}
+.error-message.data-v-8c7e7c79 {
+  background: #ffebee;
+  color: #f44336;
+  padding: 20rpx;
+  border-radius: 10rpx;
+  font-size: 26rpx;
+  margin-top: 20rpx;
+}

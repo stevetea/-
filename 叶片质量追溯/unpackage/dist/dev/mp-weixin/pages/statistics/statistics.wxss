@@ -1,0 +1,111 @@
+
+.statistics-container.data-v-fc23ec97 {
+  min-height: 100vh;
+  background: #FFFFFF;
+  padding: 20rpx;
+}
+.page-title.data-v-fc23ec97 {
+  font-size: 36rpx;
+  font-weight: bold;
+  color: #333;
+  margin-bottom: 20rpx;
+  text-align: center;
+}
+.stat-card.data-v-fc23ec97 {
+  background: #ffffff;
+  border-radius: 20rpx;
+  padding: 30rpx;
+  margin-bottom: 20rpx;
+}
+.card-title.data-v-fc23ec97 {
+  font-size: 30rpx;
+  font-weight: bold;
+  color: #333;
+  margin-bottom: 20rpx;
+}
+.stat-grid.data-v-fc23ec97 {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20rpx;
+}
+.stat-item.data-v-fc23ec97 {
+  flex: 1;
+  min-width: calc(50% - 10rpx);
+  text-align: center;
+  padding: 20rpx;
+  background: #f8f9fa;
+  border-radius: 15rpx;
+}
+.stat-item.success.data-v-fc23ec97 {
+  background: #e8f5e9;
+}
+.stat-item.danger.data-v-fc23ec97 {
+  background: #ffebee;
+}
+.stat-value.data-v-fc23ec97 {
+  display: block;
+  font-size: 48rpx;
+  font-weight: bold;
+  color: #667eea;
+  margin-bottom: 10rpx;
+}
+.stat-item.success .stat-value.data-v-fc23ec97 {
+  color: #4caf50;
+}
+.stat-item.danger .stat-value.data-v-fc23ec97 {
+  color: #f44336;
+}
+.stat-label.data-v-fc23ec97 {
+  display: block;
+  font-size: 24rpx;
+  color: #666;
+}
+.trend-list.data-v-fc23ec97 {
+  display: flex;
+  flex-direction: column;
+  gap: 20rpx;
+}
+.trend-item.data-v-fc23ec97 {
+  display: flex;
+  align-items: center;
+  gap: 20rpx;
+}
+.trend-date.data-v-fc23ec97 {
+  width: 120rpx;
+  font-size: 24rpx;
+  color: #666;
+}
+.trend-bar-wrapper.data-v-fc23ec97 {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  gap: 15rpx;
+  position: relative;
+  height: 40rpx;
+  background: #f5f5f5;
+  border-radius: 20rpx;
+  overflow: hidden;
+}
+.trend-bar.data-v-fc23ec97 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 100%;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  border-radius: 20rpx;
+  transition: width 0.3s ease;
+}
+.trend-value.data-v-fc23ec97 {
+  position: relative;
+  z-index: 1;
+  font-size: 24rpx;
+  font-weight: bold;
+  color: #333;
+  margin-left: 10rpx;
+}
+.empty-tip.data-v-fc23ec97 {
+  text-align: center;
+  padding: 100rpx;
+  color: #999;
+  font-size: 28rpx;
+}

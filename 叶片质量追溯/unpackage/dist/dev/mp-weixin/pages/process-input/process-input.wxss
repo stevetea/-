@@ -1,0 +1,122 @@
+
+.process-input-container.data-v-e26183e5 {
+  min-height: 100vh;
+  background: #FFFFFF;
+  padding: 20rpx;
+}
+.form-card.data-v-e26183e5 {
+  background: #ffffff;
+  border-radius: 20rpx;
+  padding: 40rpx;
+}
+.card-title.data-v-e26183e5 {
+  font-size: 36rpx;
+  font-weight: bold;
+  color: #333;
+  margin-bottom: 30rpx;
+  text-align: center;
+}
+.blade-info.data-v-e26183e5 {
+  background: #f8f9fa;
+  border-radius: 10rpx;
+  padding: 20rpx;
+  margin-bottom: 30rpx;
+}
+.info-item.data-v-e26183e5 {
+  display: flex;
+  margin-bottom: 15rpx;
+}
+.info-item.data-v-e26183e5:last-child {
+  margin-bottom: 0;
+}
+.info-item .label.data-v-e26183e5 {
+  color: #666;
+  font-size: 28rpx;
+  width: 180rpx;
+}
+.info-item .value.data-v-e26183e5 {
+  color: #333;
+  font-size: 28rpx;
+  font-weight: 500;
+}
+.form-section.data-v-e26183e5 {
+  margin-bottom: 30rpx;
+}
+.section-title.data-v-e26183e5 {
+  font-size: 32rpx;
+  font-weight: bold;
+  color: #333;
+  margin-bottom: 20rpx;
+}
+.input-group.data-v-e26183e5 {
+  margin-bottom: 25rpx;
+}
+.input-label.data-v-e26183e5 {
+  display: block;
+  font-size: 28rpx;
+  color: #666;
+  margin-bottom: 10rpx;
+}
+.input.data-v-e26183e5 {
+  width: 100%;
+  height: 80rpx;
+  background: #f5f5f5;
+  border-radius: 8rpx;
+  padding: 0 20rpx;
+  font-size: 28rpx;
+  box-sizing: border-box;
+}
+.textarea.data-v-e26183e5 {
+  width: 100%;
+  min-height: 150rpx;
+  background: #f5f5f5;
+  border-radius: 8rpx;
+  padding: 20rpx;
+  font-size: 28rpx;
+  box-sizing: border-box;
+}
+.picker.data-v-e26183e5 {
+  width: 100%;
+  height: 80rpx;
+  background: #f5f5f5;
+  border-radius: 8rpx;
+  padding: 0 20rpx;
+  display: flex;
+  align-items: center;
+  font-size: 28rpx;
+  color: #333;
+}
+.radio-group.data-v-e26183e5 {
+  display: flex;
+  gap: 30rpx;
+}
+.radio-item.data-v-e26183e5 {
+  display: flex;
+  align-items: center;
+  gap: 10rpx;
+  font-size: 28rpx;
+  color: #333;
+}
+.submit-btn.data-v-e26183e5 {
+  width: 100%;
+  height: 88rpx;
+  background: linear-gradient(135deg, #FFB6C1 0%, #FFB6C1 100%);
+  color: #ffffff;
+  border-radius: 10rpx;
+  font-size: 32rpx;
+  font-weight: bold;
+  border: none;
+  margin-top: 40rpx;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.submit-btn.data-v-e26183e5::after {
+  border: none;
+}
+.tip-text.data-v-e26183e5 {
+  font-size: 24rpx;
+  color: #999999;
+  line-height: 1.6;
+  padding: 10rpx 0;
+}
